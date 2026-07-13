@@ -22,13 +22,3 @@ pip install -r requirements.txt
 python scraper.py
 
 
-📁 Project Structure
-scrapethissite-web-scraper/
-├── scraper.py
-├── output.csv
-├── requirements.txt
-├── README.md
-├── requirements.txt
-                ├── README.md
-
-
