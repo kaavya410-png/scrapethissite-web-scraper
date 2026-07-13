@@ -22,13 +22,13 @@ pip install -r requirements.txt
 python scraper.py
 
 
-Project Structure
-
-
+📁 Project Structure
 scrapethissite-web-scraper/
-                ├── scraper.ipnb
-                ├── countries_simple.xlsx
-                ├── requirements.txt
+├── scraper.py
+├── output.csv
+├── requirements.txt
+├── README.md
+├── requirements.txt
                 ├── README.md
 
 
