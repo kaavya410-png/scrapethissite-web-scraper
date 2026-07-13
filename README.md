@@ -26,9 +26,9 @@ Project Structure
 
 
 scrapethissite-web-scraper/
-├── scraper.ipnb
-├── countries_simple.xlsx
-├── requirements.txt
-├── README.md
+                ├── scraper.ipnb
+                ├── countries_simple.xlsx
+                ├── requirements.txt
+                ├── README.md
 
 
